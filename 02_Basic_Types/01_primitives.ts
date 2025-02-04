@@ -1,5 +1,7 @@
 /*
-In TypeScript, primitives are the fundamental data types that represent simple values. These are the same as JavaScript's primitive types but with TypeScript's added type safety.
+Primitives
+In TypeScript, primitives are the fundamental data types that represent simple values.
+These are the same as JavaScript's primitive types but with TypeScript's added type safety.
 */
 
 // string
