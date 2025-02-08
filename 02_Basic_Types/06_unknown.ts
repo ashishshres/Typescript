@@ -1,6 +1,8 @@
 /*
 Unknown
-In TypeScript, `unknown` is a safer alternative to `any` because it forces type checking before you can use a value. It is often used when we don't initially know the type of a value but want to ensure type safety later.
+In TypeScript, `unknown` is a safer alternative to `any` because it forces type checking 
+before we can use a value. It is often used when we don't initially know the type of a value 
+but want to ensure type safety later.
 */
 
 let value: unknown;
